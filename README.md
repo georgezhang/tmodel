@@ -49,6 +49,13 @@ jupyter notebook --allow-root --ip=0.0.0.0 --port=8888
 docker exec -it tmodel /bin/bash
 ```
 
+### if your machine restart, you can start container
+
+```bash
+docker ps -a
+docker start -i tmodel
+```
+
 ### You can use tmux to split the screen
 
 ```bash
