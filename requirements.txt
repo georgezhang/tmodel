@@ -1,0 +1,10 @@
+numpy
+scipy
+matplotlib
+Pillow
+scikit-image
+jupyter
+pandas
+lxml
+Cython
+contextlib2
