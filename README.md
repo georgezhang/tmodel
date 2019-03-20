@@ -1,5 +1,4 @@
 ## Get started
-------
 
 ### Build the image
 
@@ -27,9 +26,9 @@ cd ../..
 
 ##### The result should be as follows:
 > :/notebooks/object/models/research:/notebooks/object/models/research/slim
-
+>
 > .......( some information ) .......
-
+>
 > Ran 16 tests in 0.062s
 > 
 > OK (skipped=1)
@@ -72,13 +71,15 @@ tensorboard --logdir='data'
 ```
 
 ## Try object detection
-------
 
 ### Run in jupyter notebook
 
 > Go to e.g. http://127.0.0.1:8888/?token=de478f72cc4f5807af85eb583abb207f0ba4eae1e1b65c89
+>
 > Click models/research/object_detection
+>
 > Click object_detection_tutorial.ipynb
+>
 > Run each block
 
 ### Show results
